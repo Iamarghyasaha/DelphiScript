@@ -1,7 +1,4 @@
-## arghya_s_application1
-
-Generated with ❤️ from [DhiWise](https://www.dhiwise.com)
-
+DelphiScript is a educational Platform
 ## Description
 
 - This React application is built using [Vite](https://vitejs.dev/).
@@ -16,7 +13,7 @@ Generated with ❤️ from [DhiWise](https://www.dhiwise.com)
 
 ## Running in dev environment
 
-1.  `cd YOUR_APPLICATION`
+1.  `cd DelphiScript`
 2.  `npm install`
 3.  `npm start`
 
@@ -101,19 +98,7 @@ Alternatively you may use `yarn`:
 yarn add react-router
 ```
 
-## License
-
-MIT License
-
-Copyright (c) 2023 DhiWise
-
-Permission is hereby granted, to any person obtaining a copy of this software and associated documentation files (the "Software"),to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
-## DhiWise Support
+## Contact Me
 
 <a href="https://twitter.com/dhiwise"><img src="https://user-images.githubusercontent.com/35039342/55471524-8e24cb00-5627-11e9-9389-58f3d4419153.png" width="60" alt="DhiWise Twitter"></a>
 
