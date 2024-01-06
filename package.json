@@ -1,5 +1,6 @@
 {
   "name": "landing-page",
+  "homepage": "https://Iamarghyasaha.github.io/DelphiScript",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -17,6 +18,8 @@
     "@tailwindcss/forms": "0.4.0"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "vite",
     "build": "vite build",
     "serve": "vite preview"
