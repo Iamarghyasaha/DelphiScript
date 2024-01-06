@@ -100,7 +100,7 @@ yarn add react-router
 
 ## Contact Me
 
-<a href="https://www.linkedin.com/in/arghya-saha-82473618a/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="60" alt="404"></a>
+<a href="https://www.linkedin.com/in/arghya-saha-82473618a/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"  target="_blank" width="60" alt="404"></a>
 
 <a href="https://www.youtube.com/c/DhiWise"><img src="https://cdn.vox-cdn.com/thumbor/0kpe316UpZWk53iw3bOLoJfF6hI=/0x0:1680x1050/1400x1400/filters:focal(706x391:974x659):format(gif)/cdn.vox-cdn.com/uploads/chorus_image/image/56414325/YTLogo_old_new_animation.0.gif" width="60" alt="DhiWise YouTube"></a>
 
